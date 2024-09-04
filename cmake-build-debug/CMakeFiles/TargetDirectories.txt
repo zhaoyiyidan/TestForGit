@@ -1,0 +1,3 @@
+/Users/zhaokunxiang/clion/TestGIt/cmake-build-debug/CMakeFiles/TestGIt.dir
+/Users/zhaokunxiang/clion/TestGIt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhaokunxiang/clion/TestGIt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
